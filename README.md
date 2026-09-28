@@ -120,6 +120,10 @@ Los archivos `.env`, `credentials.json` y `token.json` contienen credenciales pr
 **nunca deben subirse al repositorio** (están excluidos en `.gitignore`). Si una clave de
 API se filtra públicamente, revócala de inmediato desde la consola y genera una nueva.
 
+## 📄 Documentación adicional
+
+- [Comparativa Anthropic (Claude) vs Groq](comparativa-anthropic-vs-groq.md)
+
 ## 👤 Autor
 
 **Bryan Gael Esquivel Pérez** — [@BryanGEP](https://github.com/BryanGEP)
